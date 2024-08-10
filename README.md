@@ -34,7 +34,7 @@ npm install
 ```
  SIGNIN PAGE
 
-![First Screenshot](./public/first.png)
+/home/dureti/Documents/GitHub/Web-development-track/test-next-auth/public/first.png
 
 SIGN UP PAGE
 
@@ -45,4 +45,4 @@ VERIFICATION PAGE
 ![THIRD Screenshot](./public/third.png)
 
 Demo
-[VIDEO](./public/recording (4).webm)
+/home/dureti/Documents/GitHub/Web-development-track/test-next-auth/public/recording (4).webm
