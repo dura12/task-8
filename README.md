@@ -15,10 +15,6 @@ Clone the Repository
 ```
 https://github.com/dura12/Web-development-track.git
 ```
-Navigate to the Project Directory
-```
-
-```
 2 . Navigate to the project directory:
 
 ```
